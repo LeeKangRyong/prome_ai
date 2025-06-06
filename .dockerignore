@@ -1,0 +1,6 @@
+ai_1/venv1/
+ai_3/venv2/
+ai_3/venv3/
+__pycache__/
+*.pyc
+*.pyo
